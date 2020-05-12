@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idiomas</string>
+    <string name="texto_bienvenida">Bienvenido</string>
+    <string name="cambiar_idioma">Entrar</string>
+</resources>
